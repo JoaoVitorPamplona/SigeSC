@@ -68,6 +68,7 @@ The pipeline-generated datasets required to run the code are available as zip fi
 | `residencias_2025.csv` | 45 MB | Allocation model, benchmark |
 | `dataset_pessoas_com_Ordem_final.csv` | 48 MB | Family composition validation (Figs. 1–3) |
 | `correspondencia_setores.csv` | 176 KB | Census tract gender marginals for constraint (P2d) |
+| `family_and_residences.csv`| 18 MB | Final allocation |
 
 After downloading and extracting:
 
